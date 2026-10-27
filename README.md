@@ -1,2 +1,2 @@
-# cagd_code
-Residual-controlled response reuse for paired-surface clearance editing
+# TVCG_code
+Repeated Surface Clearance Editing with Error-Controlled Solution Reuse
